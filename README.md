@@ -1,0 +1,2 @@
+# NukeBot
+Nukes Discord Servers
